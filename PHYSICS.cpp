@@ -2,6 +2,7 @@
 #include<process.h>
 #include<stdio.h>
 #include<fstream.h>
+using namespace std;
 void practice();
 void fundamental();
 void conservation();
